@@ -1,2 +1,2 @@
-*** PROJECT SANA ***
-** CRAZZZY **
+Project SANA
+Crazzy
